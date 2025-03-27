@@ -5,10 +5,10 @@ public class Employee {
 	private Integer id;
 	private Double salary;
 	
-	public Employees() {
+	public Employee() {
 	}
 
-	public Employees(String name, Integer id, Double salary) {
+	public Employee(String name, Integer id, Double salary) {
 		this.name = name;
 		this.id = id;
 		this.salary = salary;
