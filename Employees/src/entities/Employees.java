@@ -1,6 +1,6 @@
 package entities;
 
-public class Employees {
+public class Employee {
 	private String name;
 	private Integer id;
 	private Double salary;
